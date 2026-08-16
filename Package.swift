@@ -17,12 +17,12 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Primordial",
-            url: "https://github.com/fairymeadowslab/primordial-apple/releases/download/1.0.0-alpha.4/Primordial.xcframework.zip",
-            checksum: "2e896f180ff8d822141a09be3b106373946b7348e0cecbfe3adbff0ecb84d2ae"
+            url: "https://github.com/fairymeadowslab/primordial-apple/releases/download/1.0.0-alpha.5/Primordial.xcframework.zip",
+            checksum: "9590e5407861f150c5c9d533d8d0b41d77de462266770e3222db3d1e2e962948"
         ),
         .binaryTarget(
             name: "ObjectBox",
-            url: "https://github.com/fairymeadowslab/primordial-apple/releases/download/1.0.0-alpha.4/ObjectBox.xcframework.zip",
+            url: "https://github.com/fairymeadowslab/primordial-apple/releases/download/1.0.0-alpha.5/ObjectBox.xcframework.zip",
             checksum: "ceeda1ab66e7b8920b03cf3ea4163b50e0181e874fa3102f7a63ca4614fddd0d"
         )
     ]
