@@ -6,10 +6,11 @@ Primordial is proprietary software. The binary SDK includes implementation code 
 
 | Component | Version / revision | License |
 | --- | --- | --- |
-| FluidAudio | `main`, `20c55df07ff104ef9b7249f00ac9b15d30f55d5f` | Apache License 2.0 |
+| FluidAudio | `main`, `baa11f65daa3003daf4401308786b1dcdeddd84e` | Apache License 2.0 |
 | MLX Swift | `prism`, `ed88e939adc61a595e53d02e40aac20761313e5f` | MIT License |
-| MLX Swift LM | `3.31.3`, `1c05248bb0899e2a7a4962b84d319cf12f4e12aa` | MIT License |
+| MLX Swift LM | `3.31.4`, `bd4b7434e6bdb588c7ef55706ff8904cb7fd4c57` | MIT License |
 | Hugging Face Swift | `0.9.0`, `b721959445b617d0bf03910b2b4aced345fd93bf` | Apache License 2.0 |
+| ONNX Runtime | `1.24.2` | MIT License |
 | ObjectBox Swift | `5.3.0` | Apache License 2.0 |
 | Swift Transformers | `1.3.3`, `2fa33e1f5e7131a7fc64c28e6d161dcec0d24820` | Apache License 2.0 |
 | Swift Jinja | `2.3.6`, `0b67ecb79139f6addef8699eff3622808aa6c7dc` | Apache License 2.0 |
@@ -109,6 +110,32 @@ yyjson:
 MIT License
 
 Copyright (c) 2020 YaoYuan <ibireme@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+ONNX Runtime:
+
+```text
+MIT License
+
+Copyright (c) Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
