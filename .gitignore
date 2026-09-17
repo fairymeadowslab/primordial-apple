@@ -6,3 +6,4 @@ xcuserdata/
 Binaries/
 *.xcframework
 *.xcframework.zip
+__pycache__/
