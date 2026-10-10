@@ -7,8 +7,8 @@ Primordial is proprietary software. The binary SDK includes implementation code 
 | Component | Version / revision | License |
 | --- | --- | --- |
 | FluidAudio | `main`, `baa11f65daa3003daf4401308786b1dcdeddd84e` | Apache License 2.0 |
-| MLX Swift | `prism`, `ed88e939adc61a595e53d02e40aac20761313e5f` | MIT License |
-| MLX Swift LM | `3.31.4`, `bd4b7434e6bdb588c7ef55706ff8904cb7fd4c57` | MIT License |
+| MLX Swift | `prism`, `2a673fa8324ca9900f37445db1f66f4400e4af15` | MIT License |
+| MLX Swift LM | `3.32.3`, `3b339ad6e3b3f44c8121ecff5131c7fd55e075e6` | MIT License |
 | Hugging Face Swift | `0.9.0`, `b721959445b617d0bf03910b2b4aced345fd93bf` | Apache License 2.0 |
 | ONNX Runtime | `1.24.2` | MIT License |
 | ObjectBox Swift | `5.3.0` | Apache License 2.0 |
