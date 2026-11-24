@@ -1,6 +1,6 @@
 # Primordial Apple SDK
 
-Primordial is the Apple Swift Package for the Primordial SDK alpha.
+Primordial is the Apple Swift Package for the Primordial SDK alpha. It supports local generation, persistent text and Markdown workspaces, document search and chat, chat activity updates, and voice.
 
 For installation, requirements, evaluation keys, examples, and API documentation, use the official docs:
 
